@@ -58,7 +58,7 @@ class Gui:  # Gui类，实现图形化页面
     # 初始化窗口
     def setWindow(self):
         # 设置标题
-        self.window.title("音乐下载器v1.0")
+        self.window.title("音乐下载器v0.1.1")
         # 设置窗口大小
         self.window.geometry(f"{self.length}x{self.width}")
 
